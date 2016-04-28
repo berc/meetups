@@ -1,6 +1,6 @@
 # meetups
 
-1. # Meetup Barcelona JS, React JS theme
+# 1. Meetup Barcelona JS, React JS theme
 April 13, 2016
 
 http://www.meetup.com/BarcelonaJS/events/229636754/
