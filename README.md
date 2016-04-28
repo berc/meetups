@@ -26,8 +26,10 @@ April 28, 2016, [Program, slides and sources] (https://github.com/garamond/real-
   
   **Pre processor SASS**  
   Great tool used by majority of developers. For Bootstrap 4 will be first choice before Less.  
+  
   **Post processors CSS modules**  
   Cool tools, but sometimes has issues with variables and you do not have a control of compiling process what leads to dificulties in ordering of generated styles for example.  
+  
   **Inline Style helper Radium**  
   Is trying supply features which are not available in inline styles like :active, :hover...  
   Is not still not in an mature state, Does not support all features missing in inline styles. For example some query selectors :before, :first, ..., only basics like :active :hover. Also have weird behaviour when you combine these qyery selectors.  
