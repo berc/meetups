@@ -1,8 +1,17 @@
 # meetups notes
 
+Here are a notes about some Meetups I have visited.
 
 
-# [Real-Life React: Tools & Techniques](http://www.meetup.com/Zurich-ReactJS-Meetup/events/230199914/)  
+## [Real-Life React: Tools & Techniques](http://www.meetup.com/AngularJS-ZRH/events/230809085/)  
+April 28, 2016, [Program, slides and sources] (https://github.com/garamond/real-life-react)
+
+#### Migrating Angular 1 into Angular 2 (Jose Badeau)  
+  Great presentation of migration path explained on the examle. Clearly eplaned steps, advantiges and disadvantages of selected migration decitions.  
+
+#### 1. Styling React components
+
+## [Real-Life React: Tools & Techniques](http://www.meetup.com/Zurich-ReactJS-Meetup/events/230199914/)  
 April 28, 2016, [Program, slides and sources] (https://github.com/garamond/real-life-react)
 
 #### 1. Styling React components
@@ -29,7 +38,7 @@ April 28, 2016, [Program, slides and sources] (https://github.com/garamond/real-
   **Catalog**  
   Very nice style guide. You can simplify editing by markup language, but you can also use Javascript if you wish.
 
-# [Meetup Barcelona JS, React JS theme](http://www.meetup.com/BarcelonaJS/events/229636754/)  
+## [Meetup Barcelona JS, React JS theme](http://www.meetup.com/BarcelonaJS/events/229636754/)  
 April 13, 2016
 
 #### 1. An advance introduction to Redux (Jorge Lucic)  
