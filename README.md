@@ -3,8 +3,8 @@
 Here are a notes about some Meetups I have visited.
 
 
-## [Real-Life React: Tools & Techniques](http://www.meetup.com/AngularJS-ZRH/events/230809085/)  
-April 28, 2016, [Program, slides and sources] (https://github.com/garamond/real-life-react)
+## [Migrating Angular 1 into Angular 2](http://www.meetup.com/AngularJS-ZRH/events/230809085/)  
+April 28, 2016, [Program] (http://www.meetup.com/AngularJS-ZRH/events/230809085/t)
 
 #### Migrating Angular 1 into Angular 2 (Jose Badeau)  
   Great presentation of migration path explained on the examle. Clearly eplaned steps, advantiges and disadvantages of selected migration decitions.  
